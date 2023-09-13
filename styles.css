@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(116, 38, 64);
+    color: aliceblue;
+}
+
+article,
+footer {
+    background-color: rgb(158, 69, 85);
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    gap: 8px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 10px;
+}
